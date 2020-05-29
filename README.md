@@ -1,14 +1,14 @@
-#Blog 
+# Blog Web App 
 
-##About
+## About
 Blog is built with Bottle web microframework for Python programming language.
 It uses Cork for session management and SQLite for database.
 
-##Usage
+## Usage
 Run the app.py
 
-##Unlicense
+## Unlicense
 Read the UNLICENSE.txt
 
-##Author
+## Author
 Darko Dekan
